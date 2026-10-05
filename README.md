@@ -8,7 +8,6 @@ The project analyzes customer demographics, income, credit scores, loan amounts,
 
 The analysis transforms financial data into meaningful insights that can support credit-risk monitoring, customer risk assessment, loan approval decisions, and financial decision-making.
 
-> *Note:* The dataset used in this academic project is synthetic and is intended for educational and analytical purposes only.
 
 ---
 
